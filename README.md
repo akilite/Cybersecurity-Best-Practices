@@ -1,7 +1,7 @@
 # Cybersecurity-Best-Practices
 
 # Key Best Practices
-     1. Enhancing Security Through Strong Passwords
+     1. Enhancing security through strong password
      2. Back your data
      3. Keep your system updated
      4. Update software and firmware
