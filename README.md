@@ -1,16 +1,16 @@
 # Cybersecurity-Best-Practices
 
 # Key Best Practices
-1. Enhancing Security Through Strong Passwords
-2. Back your data
-3. Keep your system updated
-4. Update software and firmware
-5. Secure the network
-6. Encrypt confidential data
-7. Create cybersecurity policies
-8. Cubersecurity awareness training
-9. Create incident response
-10. Be Cautious of Phishing Attempts
+     1. Enhancing Security Through Strong Passwords
+     2. Back your data
+     3. Keep your system updated
+     4. Update software and firmware
+     5. Secure the network
+     6. Encrypt confidential data
+     7. Create cybersecurity policies
+     8. Cubersecurity awareness training
+     9. Create incident response
+     10. Be Cautious of Phishing Attempts
 
 ## Enhancing Security Through Strong Passwords
 Strong passwords are a fundamental aspect of cybersecurity as they serve as the first line of defense against unauthorized access to sensitive information. A strong password significantly reduces the risk of security breaches, data theft, and unauthorized access to accounts or systems. By using strong passwords, individuals and organizations can thwart common password-based attacks such as brute-force attacks and dictionary attacks, thereby safeguarding their digital assets and maintaining confidentiality, integrity, and availability of data. 
